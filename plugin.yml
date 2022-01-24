@@ -1,0 +1,11 @@
+main: x.KenKOfficial.Modes.Main.Main
+version: 1.0-Beta
+name: xKenModes
+author: KenKOfficial
+description: Plugin autorstwa xKenKOfficial
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  fly:
+  gamemode:
+    aliases: [gm]

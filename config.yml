@@ -1,0 +1,38 @@
+# Ustawienia prefixu dla pluginu:
+prefix: "&3&lxKenModes"
+
+# Ustawienia wiadomosci dla braku permisji:
+brak_permisji: "&8>> &cNie masz dostepu do tej komendy!"
+
+# Wiadomosc gdy gracza nie ma na serwerze:
+offline_player: "&8>> &cTego gracza nie ma na serwerze!"
+
+#Ustawienia wiadomosci gdy gracz wlacza fly:
+fly_gracz:
+  wlaczone: "&8>> &7Fly zostalo &aAktywowane&7!"
+  wylaczone: "&8>> &7Fly zostalo &cWylaczone&7!"
+
+# Ustawienia wiadomosci do administratora gdy wylacza fly innemu graczowi:
+fly_admin:
+  wlaczone: "&8>> &7Tryb latania dla gracza&8: &b{GRACZ} &7zostal&8: &aWlaczony"
+  wylaczone: "&8>> &7Tryb latania dla gracza&8: &b{GRACZ} &7zostal&8: &cWylaczony"
+
+# Wiadomosc poprawnego uzycia dla komendy /gamemode:
+gamemode_usage: "&8>> &7Poprawne uzycie&8: &3/gamemode (tryb) (gracz)"
+
+# Ustawienia wiadomosci gdy gracz zmienia tryb gamemode:
+gamemode_gracz:
+  survival: "&8>> &7Twoj tryb gamemode zostal zmieniony na&8: &bSurvival"
+  creative: "&8>> &7Twoj tryb gamemode zostal zmieniony na&8: &bCreative"
+  adventure: "&8>> &7Twoj tryb gamemode zostal zmieniony na&8: &bAdventure"
+  spectator: "&8>> &7Twoj tryb gamemode zostal zmieniony na&8: &bSpectator"
+
+# Ustawienia wiadomosci gdy administrator zmienia graczowi tryb gamemode:
+gamemode_admin:
+  survival: "&8>> &7Zmieniono tryb gracza&8: &b{GRACZ} &7na&8: &3Survival"
+  creative: "&8>> &7Zmieniono tryb gracza&8: &b{GRACZ} &7na&8: &3Creative"
+  adventure: "&8>> &7Zmieniono tryb gracza&8: &b{GRACZ} &7na&8: &3Adventure"
+  spectator: "&8>> &7Zmieniono tryb gracza&8: &b{GRACZ} &7na&8: &3Spectator"
+
+#Czy wyswietlac informacje o pluginie? :
+plugin_info: false
